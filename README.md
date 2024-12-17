@@ -3,18 +3,20 @@
 
 
 
-**The all-in-one Discord Payment Bot 🔗 : Connect wallets, send crypto, reward users, and make fun bets - all within Discord!** 
+
+The all-in-one **Discord Payment Bot** 🔗: Connect wallets, send crypto, reward users, and make fun bets - **all within Discord**!  
+
 ---
 #  **What is MantlePay?** 🤔  
 
 MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! 
 
 ---
-🔗 **Connect your wallet** with just one command—no confusing setups or extra steps. 
+🔗 **Connect your wallet** Forget complicated wallet setups!With MantlePay, you can **connect your wallet** directly in Discord using a simple command. No stress, no extra steps.
  
-💵 **Need to send tokens?** Forget wallet addresses! Just use someone’s **Discord ID** with `/send` and let MantlePay handle the rest.
+💵 **Need to send tokens?** Sending crypto has never been easier.No wallet address? No worries! Use the /send command with a **Discord ID**,
   
-🎁 **Want to tip someone** for helping out or being awesome? MantlePay makes it easy—rewards are saved to their **Discord ID** and can be claimed later without any hassle.
+🎁 **Want to tip someone** for helping out or being awesome? Tip them instantly without asking for their wallet address. MantlePay’s reward system saves rewards using **Discord IDs**, so users can claim them anytime when they connect their wallet—**zero fuss, zero fees**.  
   
 🎰 **Feeling playful?** Set up fun **betting games** for your server and let everyone join in. It’s Web3, simplified and made fun for everyone. 
 
@@ -28,7 +30,15 @@ The current Web3 ecosystem is **broken** when it comes to user experience:
 - Traditional DeFi feels distant and intimidating for the average user.
 
 
+
+
 ---
+
+## 🏗️ System Architecture
+![System Architecture](assests/images/sys-arc.png)
+
+---
+
 
 ##  Key Aspects 
 
@@ -43,14 +53,9 @@ The current Web3 ecosystem is **broken** when it comes to user experience:
 
 ### 🎮 **GamFi for Fun Betting Experiences**
 
-
-
 ---
 
-## 🏗️ System Architecture
-![System Architecture](assests/images/sys-arc.png)
 
----
 
 ## 🔧 Available Commands
 
@@ -85,8 +90,9 @@ The current Web3 ecosystem is **broken** when it comes to user experience:
 
 ## 🌐 Smart Contract Addresses
 
-- **Sample Betting Contract**: Deployed on Mantle Sepolia Testnet.
-- **Sample Rewards Contract**: Deployed on Mantle Sepolia Testnet.
+- **Sample Betting Contract**: [Deployed on Mantle Sepolia Testnet](https://sepolia.mantlescan.xyz/address/0x356c41b7849E76CcCA8fE17f11e9Fbe3e9cd634A)  
+- **Sample Rewards Contract**: [Deployed on Mantle Sepolia Testnet](https://sepolia.mantlescan.xyz/address/0xC5C7D1c49E7cF96e0675460ACc22f65039936fEa)
+
 
 
 
