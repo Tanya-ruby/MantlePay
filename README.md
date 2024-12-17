@@ -9,7 +9,7 @@ The all-in-one **Discord Payment Bot** 🔗: Connect wallets, send crypto, rewar
 ---
 #  **What is MantlePay?** 🤔  
 
-MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! 
+MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! ✨
 
 ---
 🔗 **Connect your wallet** Forget complicated wallet setups!With MantlePay, you can **connect your wallet** directly in Discord using a simple command. No stress, no extra steps.
