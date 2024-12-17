@@ -7,31 +7,16 @@
 ---
 #  **What is MantlePay?** 🤔  
 
-MantlePay is your **all-in-one Discord bot** that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! 🚀  
+MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! 
 
 ---
-
-### 🔗 **Seamless Wallet Connection**  
-Forget complicated wallet setups!  
-With MantlePay, you can **connect your wallet** directly in Discord using a simple command. No stress, no extra steps—just seamless integration.  
-
----
-
-## 💵 **Effortless Token Transfers**  
-Sending crypto has never been easier.  
-No wallet address? No worries! Use the `/send` command with a **Discord ID**, and MantlePay handles the rest. Instant, secure, and hassle-free transactions. 💥  
-
----
-
-## 🎁 **Reward Without Wallets**  
-See someone being helpful or awesome in your community?  
-Tip them instantly without asking for their wallet address. MantlePay’s reward system saves rewards using **Discord IDs**, so users can claim them anytime when they connect their wallet—**zero fuss, zero fees**.  
-
----
-
-## 🎰 **Betting Games for Fun**  
-Bring the thrill of games into your Discord community!  
-Set up **fun betting games** directly in your server. Let users participate, place bets, and win rewards—no need for external tools or platforms. 🕹️  
+🔗 **Connect your wallet** with just one command—no confusing setups or extra steps. 
+ 
+💵 **Need to send tokens?** Forget wallet addresses! Just use someone’s **Discord ID** with `/send` and let MantlePay handle the rest.
+  
+🎁 **Want to tip someone** for helping out or being awesome? MantlePay makes it easy—rewards are saved to their **Discord ID** and can be claimed later without any hassle.
+  
+🎰 **Feeling playful?** Set up fun **betting games** for your server and let everyone join in. It’s Web3, simplified and made fun for everyone. 
 
 
 ---
