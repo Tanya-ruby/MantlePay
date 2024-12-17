@@ -7,9 +7,12 @@
 The all-in-one **Discord Payment Bot** 🔗: Connect wallets, send crypto, reward users, and make fun bets - **all within Discord**!  
 
 ---
-#  **What is MantlePay?** 🤔  
+#  **What is MantlePay?** 🤔 
 
-MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. **Deployed on the Mantle Network** for fast and secure interactions! ✨
+MantlePay is your **all-in-one Discord bot** 🚀  that brings **Web3** to life inside your favorite servers. Whether you're a DeFi pro, a SocialFi enthusiast, or just here to have fun, MantlePay makes everything easier, smoother, and more engaging. 
+
+
+**Deployed on the Mantle Network** for fast and secure interactions! ✨<img src="assests/images/mantle-mnt-logo-2.png"   alt="icon" width="60px" height="60px" /> 
 
 ---
 🔗 **Connect your wallet** Forget complicated wallet setups!With MantlePay, you can **connect your wallet** directly in Discord using a simple command. No stress, no extra steps.
@@ -88,7 +91,7 @@ The current Web3 ecosystem is **broken** when it comes to user experience:
 
 ---
 
-## 🌐 Smart Contract Addresses
+## 🌐 Smart Contract Addresses <img src="assests/images/mantle-mnt-logo-2.png"   alt="icon" width="60px" height="60px" /> 
 
 - **Sample Betting Contract**: [Deployed on Mantle Sepolia Testnet](https://sepolia.mantlescan.xyz/address/0x356c41b7849E76CcCA8fE17f11e9Fbe3e9cd634A)  
 - **Sample Rewards Contract**: [Deployed on Mantle Sepolia Testnet](https://sepolia.mantlescan.xyz/address/0xC5C7D1c49E7cF96e0675460ACc22f65039936fEa)
