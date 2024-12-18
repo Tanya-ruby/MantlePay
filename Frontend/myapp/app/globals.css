@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 150 100% 10%;
+
+    --card: 150 50% 98%;
+    --card-foreground: 150 100% 10%;
+ 
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 100% 10%;
+ 
+    --primary: 150 100% 25%;
+    --primary-foreground: 0 0% 100%;
+ 
+    --secondary: 150 50% 90%;
+    --secondary-foreground: 150 100% 10%;
+ 
+    --muted: 150 50% 95%;
+    --muted-foreground: 150 50% 40%;
+ 
+    --accent: 130 100% 40%;
+    --accent-foreground: 0 0% 100%;
+ 
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 150 50% 85%;
+    --input: 150 50% 85%;
+    --ring: 150 100% 25%;
+ 
+    --radius: 0.5rem;
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.shimmer {
+  @apply absolute inset-0 bg-gradient-to-r from-transparent via-primary/10 to-transparent opacity-30;
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+.particles .particle {
+  @apply absolute rounded-full bg-primary opacity-20;
+  animation: float 20s infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.bg-grid {
+  background-image: 
+    linear-gradient(to right, rgba(0, 255, 0, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 255, 0, 0.05) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.glow {
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.3), 0 0 20px rgba(0, 255, 0, 0.2), 0 0 30px rgba(0, 255, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.glow:hover {
+  box-shadow: 0 0 15px rgba(0, 255, 0, 0.5), 0 0 30px rgba(0, 255, 0, 0.3), 0 0 45px rgba(0, 255, 0, 0.2);
+}
+
