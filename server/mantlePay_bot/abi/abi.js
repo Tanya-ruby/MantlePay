@@ -1,3 +1,4 @@
+//this is the rewards contract abi
 export const CONTRACT_ABI= [
 	{
 		"inputs": [],
