@@ -1,5 +1,10 @@
-<img src="assests/images/Screenshot_2024-12-17_at_9.45.52_PM-removebg-preview.png"  
-  alt="Green Aura Orb" width="160" style="vertical-align: middle;"/> <h1 style="font-size: 160px;"> MantlePay</h1>
+<p align="center">
+  <img src="assests/images/Screenshot_2024-12-17_at_9.45.52_PM-removebg-preview.png"  
+    alt="Green Aura Orb" width="160" style="vertical-align: middle;" />
+</p>
+
+<h1 align="center" style="font-size: 60px;">MantlePay</h1>
+
 
 
 
